@@ -4,7 +4,7 @@ This is a JavaScript code. It orders alphabetically all possibles substrings and
 For example: 
 
 imprimeNSubstring("dbac",3) will find the substrings:
-a, ac, ba, bac, c, d, db, dba, dbac
+a, ac, b, ba, bac, c, d, db, dba, dbac
 
 Then, this substrings will be concatenated and give the following string:
 "aacbbabaccddbdbadbac"
